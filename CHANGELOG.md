@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.99.1](https://www.github.com/googleapis/java-language/compare/v1.99.0...v1.99.1) (2019-12-18)
+
+
+### Documentation
+
+* reference libraries-bom in docs ([#11](https://www.github.com/googleapis/java-language/issues/11)) ([a0ee87f](https://www.github.com/googleapis/java-language/commit/a0ee87f8fbb2e84fee0801a9de8598e5f19e860b))
+* **regen:** update generated javadoc ([#21](https://www.github.com/googleapis/java-language/issues/21)) ([da12b27](https://www.github.com/googleapis/java-language/commit/da12b27fa60eb3571c9eb62d7ee9361f984f23a8))
+
 ## [1.99.0](https://www.github.com/googleapis/java-language/compare/1.98.0...v1.99.0) (2019-10-30)
 
 
